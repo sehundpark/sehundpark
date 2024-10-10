@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently completing the Full Stack curriculum on The Odin Project.<br>👯 I’m looking to collaborate on any exciting web development projects to build my portfolio!<br>🤝 I’m looking for help with securing my first tech job!<br>🌱 I’m currently learning React and NodeJS.
+🔭 I’m currently completing the Full Stack curriculum on The Odin Project.<br>👯 I’m looking to collaborate on any exciting web development projects to build my portfolio!<br>🤝 I’m looking for help with securing my first tech job!<br>🌱 Completed Front-End Development learning and pushing for Full-Stack by learning Node.js.
 
 
 ## 🌐 Socials:
